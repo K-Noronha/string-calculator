@@ -1,0 +1,16 @@
+{
+  "name": "7shifts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "stringCalculator.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.6.2"
+  }
+}
